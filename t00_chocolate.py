@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen           ****** TODO: CHANGE THIS!! ******
-# username: heggens             ****** TODO: CHANGE THIS!! *****
+# Author: Jose Zapata
+# username: zapatamezaj
 #
 # Purpose: Designed to compute the total chocolate desired by the user
 #
@@ -17,7 +17,7 @@
 # Section 1: User Input Section
 print("")
 entered_name = input("Please enter your name: ")
-print("Hello " + entered_name + "! \n")
+print("Hi " + entered_name + "! \n")
 
 num_boxes = int(input("How many chocolate boxes you would like? "))
 num_lbs = int(input("How many lbs of chocolate in a box? \n"))
